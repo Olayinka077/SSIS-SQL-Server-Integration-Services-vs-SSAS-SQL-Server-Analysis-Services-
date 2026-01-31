@@ -177,6 +177,37 @@ Through this project, I gained hands-on experience in:
 ✔ MDX Querying
 
 ✔ OLAP Analysis
+<img width="1897" height="675" alt="Screenshot 2025-07-29 161101" src="https://github.com/user-attachments/assets/aad5c252-2f4f-463d-bbd1-776103f1db2b" />
+<img width="1382" height="893" alt="Screenshot 2025-07-29 161254" src="https://github.com/user-attachments/assets/93b389e2-4898-4db2-b4f7-3975479af5cd" />
+<img width="1899" height="908" alt="Screenshot 2025-07-29 161336" src="https://github.com/user-attachments/assets/97763f33-48e7-4471-8337-978900609e6e" />
+<img width="1911" height="689" alt="Screenshot 2025-07-29 162509" src="https://github.com/user-attachments/assets/4b01f7a7-1b38-46e6-a423-01e8a8bba74b" />
+<img width="612" height="502" alt="Screenshot 2025-07-29 162605" src="https://github.com/user-attachments/assets/d8135379-7f0b-4d7c-ac64-d2b4fbeac400" />
+<img width="513" height="532" alt="Screenshot 2025-07-29 164102" src="https://github.com/user-attachments/assets/fdaf674b-57fc-4825-b940-b8e11cd1c50f" />
+<img width="520" height="783" alt="Screenshot 2025-07-29 165825" src="https://github.com/user-attachments/assets/e61ce3b1-408d-4a63-852d-5f1ece519419" />
+<img width="1907" height="962" alt="Screenshot 2025-07-29 171146" src="https://github.com/user-attachments/assets/69992162-4201-4e97-a569-5e9494e12f22" />
+<img width="1910" height="991" alt="Screenshot 2025-07-29 171530" src="https://github.com/user-attachments/assets/19cdb1e9-d8b6-4470-91e7-697857108f2d" />
+Tools & Technologies
+
+SQL Server Analysis Services (SSAS – Multidimensional)
+
+SQL Server Data Tools (SSDT)
+
+Visual Studio
+
+SQL Server Management Studio (SSMS)
+
+Adventure Works DW2022
+
+This project strengthened my foundation in analytical modeling and enterprise BI solutions. I’m excited to continue growing in this space and expand into modern BI tools while building on strong SSAS fundamentals.
+
+
+
+
+
+
+
+
+
 
 
 
